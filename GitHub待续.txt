@@ -1,0 +1,379 @@
+#GitHub等待续
+
+7月6日
+newspaper - News, full-text, and article metadata extraction in Python 3
+
+7月5日
+Google search
+-
+yagooglesearch - Yet another googlesearch - A Python library for executing intelligent, realistic-looking, and tunable Google searches
+-
+readability - Turn any web page into a clean view
+-
+readabilityBUNDLE - A bundle of html content extraction algorithms
+-
+python-readability - fast python port of arc90's readability tool, updated to match latest readability.js
+-
+readability - a python readability
+-
+readabilitySAX - a fast and platform independent readability port (JS)
+-
+node-readability - Scrape/Crawl article from any site automatically. Make any web page readable, no matter Chinese or English
+-
+spider2 - A 2nd generation spider to crawl any article site, automatic reading title and content
+ Automatic User-Agent
+ Proxy supports
+ Automatic Decode encodings (especially useful with non-english language)
+-
+readability - visualise readability
+common-words - visualise rare words
+short-words - visualise lengthy words
+write-music - visualise sentence length
+-
+Search-Engine-Data-Collector - Summer '21 research project under Forward Data Lab group. Django website that allows easy data collection & annotation from integrated Google Search to find object 'source page' for data extraction
+-
+xgoogle - Python library to Google services (google search, google sets, google translate, sponsored links)
+
+7月4日
+ArchiveBox - Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/bookmarksPocket/Pinboard/Pinboardetc., saves HTML, JS, PDFs, media, and more...
+-
+pirate（Nick Sweeting）-  author of ArchiveBox
+-
+Article Text: article.html/json Article text extraction using Readability & Mercury
+-
+Disk usage can be reduced by using a compressed/deduplicated filesystem like ZFS/BTRFS
+
+6月30日
+arxiv-sanity-lite - tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts
+
+6月29日
+Android-QR-Code-on-AR - show in Augmented Reality, using a Google Cardboard, a 3d model on a QR code Placeholder 
+ARemote - uses AR to overlay menus on QR codes
+
+6月24日
+自动安装脚本 自动备份脚本
+
+6月21日
+pdfact - A basic tool that extracts the structure from the PDF files of scientific articles … features are: (1) the detection of correct paragraph boundaries … (4) merging hyphenated words #（from the PDF extraction benchmark paper）
+-
+icecite - The repository of Icecite, a research paper management system （from the PDF extraction benchmark paper）
+
+6月20日
+pdf-text-extraction-benchmark - A project about benchmarking and evaluating existing PDF extraction tools on their semantic abilities to extract the body texts from PDF documents, especially from scientific articles
+-
+Mandalka - author of open-semantic-visual-graph-explorer who stars repository like awesome-digital-humanities spaczz etc
+-
+“common word”：
+common-words - visualization of common words in different programming languages
+-
+ KeywordAnalysis - Word analysis, by domain, on the Common Crawl data set for the purpose of finding industry trends
+-
+text-comparison-tools - Compare two texts to find common word sequences (n-grams)
+-
+most-common-words - A website that finds the most common words on a reddit comment thread
+-
+SkillNER - A (smart) rule based NLP module to extract job skills from text
+-
+decisiondates - Parsing PDF files in search of particular patterns，Multi pass searching for patterns of adjacent regex hits
+-
+main-content-extraction-assessment-framework - A WebExtension based framework for the assessment of Main Content Extraction Methods from web pages
+
+6月16日
+search“occurrence”：
+obsidian-tracker - A plugin tracks occurrences and numbers in your notes
+
+6月16日
+search “physics -engine”
+-
+search “topic model visualization”：
+-
+SerendipSlim - SerendipSlim is a visualization tool for exploring topic models built on large collections of text documents #SlimCV #SlimTV
+-
+vis-topics - Visualization of Topics Derived from Collection of Papers by Topic Model #topic river 
+-
+text-clustering - learn about indonesian text classification and topics modeling #good hierarchy clustering 
+-
+tmplot - to select closest and stable topics across multiple models
+-
+topic-bubbles - D3-based interactive bubble chart for topic model visualization
+-
+NLP---Topic-Modeling-and-Recommendation-system - News article recommendations. LDA topic modeling. Model evaluation. Visualization of the topics #notebook 
+-
+NLP_ML_Visualization_Tutorial - #notebook #word cloud #NER
+-
+twic - Topic Words in Context (TWiC) is a highly-interactive, browser-based visualization for MALLET topic models
+-
+topicscan - TopicScan: Visualization and validation interface for NMF Topic Modeling # k range #NMF
+
+6月15日
+topic model PDF
+violet7pan - xyplorer 用户
+educational - deepmind
+deepmind-research - deepmind 
+-
+Evidence-Board - a recreation of the Evidence Board often seen used by detectives / investigators for info
+-
+HuntBoard - A tool to manage investigations for distributed and non-distributed teams
+-
+CrazyWall - digital evidence board aka detective suite, aka CrazyWall
+-
+birdseye - Generate a bird's eye view of a project's source code
+-
+"search query iteration":
+Quado - Quado is a research automation web application with a search box that takes in a query and automatically search, aggregate and extract all relevant information from different sources like web pages and data stores and presents all results in a concise, clear and precise manner on graphical board similar to a detective’s investigative board
+-
+Web-Scrapping-from-google-with-Scrapy - Python Scrapy spider that searches Google for a particular keyword and extracts all data from the SERP results
+-
+Suggested-Chain-Poetry
+ - Experimental poem or story generator by iterative search chain from Google's autofill suggestions. An Exquisite Corpse text developed automatically from millions of people's queries filtered by Google in its autofill suggestions. The user introduces in a textbox the first words of the story/poem and the text will be created automatically
+-
+Search_by_Reinforcement_Learning - Search tweets referring to news, by Deep Reinforcement Learning
+-
+Google-Search-Console-bulk-query - A script to iterate through the available filters on Google Search Console, minimising sampling issues by extracting each possible combination of filters
+-
+ESL - Algorithms from the book "Elements of Statistical Learning", implemented in Python
+
+6月14日
+“topic model visualization” 关键词
+-
+COVID19-Literature-Clustering - By using Bokeh, the plot will be interactive. 
+-
+pyLDAvis - Python library for interactive topic model visualization. Port of the R LDAvis package
+-
+LDAvis - R package for web-based interactive topic model visualization
+-
+tmv - topic model visualization
+-
+tmve-original - create a browser of a corpus using a topic model; original TMVE implementation (static pages)
+-
+topic-explorer - System for building, visualizing, and working with LDA topic models （demos trained on the Stanford Encyclopedia of Philosophy, a selection of books）
+- 
+ms2ldaviz - Substructural discovery in untargeted metabolomics data using LDA topic modelling
+-
+lsa4solr
+jsLDA
+-
+info3300-spr2015 - Notes and in-class problems for ML+d3 course
+-
+info3300-spr2017 - course materials for data-driven webapplications
+-
+draw.io （desktop）- whiteboard application
+-
+“research” search results until dennybritz' deeplearning-papernotes - Summaries and notes on Deep Learning research papers repository
+
+6月11日
+paraphrase identification 
+Plagiarism Detection through Paraphrase Identification
+ plagiarism identification
+-
+The current state of the art in vector search is milvus. For approximate nearest neighbour you can use flann and annoy
+-
+textual-similarity-universal-sentence-encoder
+
+6月10日
+（keyword：automatic index）
+Lingo - A full-featured automatic indexing system
+indexmeister - Utilities for semi-automatic indexing of LaTex documents
+docker - elk
+-
+OpenMatch - An Open-Source Package for Information Retrieval
+-
+OpenNRE - An Open-Source Package for Neural Relation Extraction (NRE)
+-
+OpenPrompt - An Open-Source Framework for Prompt-Learning
+-
+PromptPapers - Must-read papers on prompt-based tuning for pre-trained language models
+-
+KGMiner - Discriminative predicate path mining for fact checking in knowledge graphs
+-
+StarSpace - Learning embeddings for classification, retrieval and ranking
+
+6月8日
+knowledge
+cs-notes
+
+6月4日
+fastText - If you want to compute vector representations of sentences or paragraphs, please use: …
+-
+ spherecluster - We also reproduce this scikit-learn tfidf (w optional lsa) + k-means demo in examples/document_clustering.py
+-
+Sosed - source code topic modeling
+ measure the distance between arbitrary pieces of code (and even projects!)
+ Firstly, we took a large corpus of sub-token sequences and trained their embeddings with fasttext. Then, we clustered the embeddings with spherical K-means to get 256 groups of semantically similar tokens. These clusters reflect topics that occurred at sub-token level in a large corpus of source code
+ all the repositories on GitHub as of the end of 2016 in a dataset of 9 million GitHub repositories from the paper by Markovtsev et al
+the range of topics is very broad, from "CPU fans" to "Large Hadron Collider"
+
+6月3日
+Hu Chen - the GitHub trending API guy
+
+5月30日
+KILT
+Faiss
+SEAL
+-
+doc2query - given an input span of text, predicts a natural language query that the text might answer
+ document expansion
+-
+uniCOIL - doc2query output can be appended to the original documents, which together serve as input to a retrieval model that exploits learnedsparse lexical representations . This class of models (typically based on transformers) takes advantage of training data to learn term weights that are effective for retrieval. In this context, doc2query output provides a candidate set of termsthat should receive non-zero weights
+-
+pyserini
+ dense retrieval (e.g., nearest-neighbor search on transformer-encoded representations) - require expensive neural inference at query time
+ Query Representations for Dense Retrieval 
+hybrid sparse-dense retrieval
+ - multi-stage reranking pipeline                      
+  - demonstration of BERT applied to passage reranking 
+   - segment the collection prior to indexing (i.e., each segment is indexed as a separate “document”), perform retrieval over the segments, and then feed these texts directly to a transformer-based reranker
+   - neural retrieval models
+scoring function - BM25
+stores doc vectors (required for relevance feedback)
+merge the sub-indexes together 
+-
+paragraph index
+passage corpus
+per-passage corpus
+MS MARCO document per-passage corpus
+segmented corpus
+segmented document corpus 
+MS MARCO document segmented corpus
+document corpus segmented into passages
+passage ranking task
+enwiki-paragraphs
+Lucene index of English Wikipedia for BERTserini
+IR test collections
+-
+Sparse Indexes
+Dense Indexes
+-
+this = 2022. Document Expansions and Learned Sparse Lexical Representations for MS MARCO V1 and V2
+2018. Anserini: Reproducible Ranking Baselines Using Lucene
+2017. Anserini: Enabling the Use of Lucene for Information Retrieval Research
+2021. Pyserini: A PythonToolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations
+2021. COIL: Revisit Exact Lexical Matchin Information Retrieval with Contextualized Inverted List
+2020. Dense Passage Retrieval for Open-Domain Question Answering
+2019. Deeper Text Understanding for IR with Contextual Neural Language Modeling
+2021. Pretrained Transformersfor Text Ranking: BERT and Beyond
+2019. Passage Re-ranking with BERT
+2019. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+2019. From doc2query to docTTTTTquery
+2019. Document Expansion by Query Prediction
+2020. Transformers: State-of-the-Art Natural Language Processing
+2021. A Proposed Conceptual Framework for a Representational Approach to Information Retrieval
+1987. The Vocabulary Problem in Human-System Communication
+
+5月29日
+icecream
+executing
+birdseye - Alex hall
+docTTTTTquery - doc2query-T5   - using the pretrained sequence-to-sequence model T5 - trained on the MS MARCO passage ranking test collection
+
+5月27日
+curriculum scheduler
+curriculummapper - TimmyChan
+-
+ textreuse-blast
+  detect and clusterize text reuse. The software takes advantage of NCBI BLAST (Basic Local Alignment Search Tool, developed for aligning biomedical sequences) to detect reuse and to find pairs where parts of documents overlap
+-
+ dhum-topic-gutfin
+  A small Python program that allows making similarity comparisons of arbitrary texts against the corpus of Project Gutenberg Finnish fulltexts
+ …automatically decipher literary genres from texts. It could also be used as a tool suggesting intertextual influences
+-
+ topic_modeling_tutorial
+  Instructions & code for the EuroPython 2014 training session "Topic Modeling for Fun and Profit"
+-
+PSScriptTools
+ File Tools
+  Get-LastModifiedFile
+    might use this command with other PowerShell commands to get usage statistics
+Month Count
+----- -----
+Jan     152
+
+5月27日
+ Newspaper3k: Article scraping & curation
+ Newspaperjs
+News extraction and scraping
+ https://vimeo.com/31950192
+This video tutorial is a follow-up to Nettut's 
+ "How to Scrape Web Pages with Node.js and jQuery", 
+using cheerio instead of 
+ JSDOM + jQuery. This video shows how easy it is to use cheerio and how much faster cheerio is than JSDOM + jQuery
+ cheerio - Fast, flexible & lean implementation of core jQuery designed specifically for the server
+
+5月23日
+ErikBjare
+ KnowTree - Crazy idea about visualizing what you (don't yet) know and create a great plan to learn anything
+ Activitywatch - The best free and open-source automated time tracker
+
+5月22日
+Paragraph Paragraph Paragraph
+cognition overload
+educational technology
+educational data mining
+Sample projects using Ploomber - Ploomber
+domain-specific-QA - IBM
+paragraph-level_implicit_discourse_relation_classification 
+ Scientific Document Understanding - A Paragraph-level Multi-task Learning Model for Scientific Fact-Verification
+
+5月21日
+（following all start with “pdf curate” keyword from a Python refactoring video）
+Digital-born PDF Scanner
+pdf-text-extraction-benchmark
+-
+GROBID (or Grobid, but not GroBid nor GroBiD) means GeneRation Of BIbliographic Data
+GROBID - a machine learning library for extracting, parsing and re-structuring raw documents such as PDF into structured XML/TEI 
+https://science-miner.com/ 含 GROBID
+DeLFT (Deep Learning Framework for Text) 
+The automatic collection of materials information from research papers using Natural Language Processing (NLP)
+rst2pdf - reStructured TExt using the utility Sphinx 
+-
+Science Concierge - paper recommendation
+detecting-scientific-claim
+SciPDF Parser
+PDFFigures
+SCIBert
+MatSciBERT
+-
+ourresearch 
+allenai 机构账号
+kermitt2
+lfoppiano
+Titipat
+danielarmengolaltayo
+
+5月12日
+source code similarity
+
+5月9日
+C W fake_name：MangaCMS project 作者，code2flow 收藏者
+ BookDeduper - Deduplicate epub/mobi/azw3/pdf ebooks
+ Gooey - Turn (almost) any Python 3 Console Program into a GUI application
+ Evol: the non-life evolution simulator
+ Scalene: a high-performance CPU, GPU and memory profiler for Python
+ Kavita - is a fast, feature rich, cross platform reading server
+ DiskCache - Disk Backed Cache
+ ReadableWebProxy - rewriting of the remote content
+
+5月5日
+PDF section chapter
+PDF cleanup
+
+5月4日
+GitHub：
+PDF hyphen，PDF cleaning，PDF pipeline，Open Semantic ETL toolkit，PDF database
+
+5月2日
+Chrome：text cleaning
+Twitter：  parallel pages
+Free programming books
+dir stats
+the power shell guy
+
+4月30日
+Review
+Amazon Review dataset
+
+4月27日
+sentence
+
+4月26日
+learning path
